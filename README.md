@@ -1,12 +1,12 @@
-# WASA Digital Payment System
+# DESCO Digital Payment System
 
 This project was built using Java, JavaFx, and CSS. The software design pattern that was used in this project is known as MVC, which stands for model, view, and controller. It is generally used for developing user interfaces, which divides the program logic into three interconnected elements. This is done to distinguish internal information representations from how information is presented to and accepted by the user.
 
 ## Author
 
-MD. Arman Islam
+SM Mohtasim Billah Fahim
 
-Email : armaanislam94@gmail.com
+Email : fahimatbd@gmail.com
 
 ## Development Environment
 
